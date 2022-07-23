@@ -21,19 +21,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
+global.owner = ['ALEKIE']
+global.premium = ['0778613719']
+global.ownernomer = '0778613719'
+global.ownername = '៚ALEKIE ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.botname = 'ALEKIE MD BOT'
+global.footer = 'ALEKIE MD'
+global.cap = '*Genarated By Alekie Md*'
+global.ig = 'https://github.com/Alekiebot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
+global.sc = 'https://github.com/Alekiebot'
 global.myweb = 'https://chat.whatsapp.com/DW8hwTRNnolEibX9dhIMWT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.packname = 'Alekie Md Sticker Bot'
+global.author = '៚ALEKIE ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.autobio = 'false'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
